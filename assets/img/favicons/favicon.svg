@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Starter favicon">
+  <rect x="40" y="40" width="432" height="432" rx="108" fill="#f7f2ea"/>
+  <rect x="174" y="102" width="164" height="258" rx="30" fill="#4a433b"/>
+  <path d="M174 360L256 302L338 360" fill="#f7f2ea"/>
+  <circle cx="360" cy="142" r="30" fill="#b77a37"/>
+</svg>

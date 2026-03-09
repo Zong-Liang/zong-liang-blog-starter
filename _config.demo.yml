@@ -1,0 +1,10 @@
+# The public demo uses this file in addition to `_config.yml`.
+# It keeps the starter defaults generic while giving the hosted demo
+# a real canonical URL and neutral presentation values.
+
+url: "https://zong-liang-blog-starter.pages.dev"
+
+social:
+  name: Starter Demo
+  links:
+    - https://zong-liang-blog-starter.pages.dev
